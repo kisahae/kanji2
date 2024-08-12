@@ -28,8 +28,8 @@ export let kanji = [
     answer: "文化"
   },
   {
-    hint:"throw",
-    answer:"投げる"
+    hint: "throw",
+    answer: "投げる"
   },
   {
     hint: "bad",
@@ -52,11 +52,11 @@ export let kanji = [
     answer: "世界"
   },
   {
-    hint: "word/statement",
+    hint: "Word/statement",
     answer: "言"
   },
   {
-    hint: "problem/homework",
+    hint: "Problem/homework",
     answer: "問題"
   },
   {
@@ -95,7 +95,7 @@ export let kanji = [
     hint: "Light",
     answer: "軽い"
   },
-    {
+  {
     hint: "Many",
     answer: "多い"
   },
@@ -107,7 +107,7 @@ export let kanji = [
     hint: "Arrival",
     answer: "到着"
   },
-   {
+  {
     hint: "Wear",
     answer: "著る"
   },
@@ -119,11 +119,11 @@ export let kanji = [
     hint: "Collect",
     answer: "集める"
   },
-    {
+  {
     hint: "Head",
     answer: "頭"
   },
-      {
+  {
     hint: "Finger",
     answer: "指"
   },
@@ -131,23 +131,23 @@ export let kanji = [
     hint: "Teeth",
     answer: "歯"
   },
-    {
+  {
     hint: "Face",
     answer: "顔"
   },
-      {
+  {
     hint: "Pillow",
-    answer: " 枕"
+    answer: "枕"
   },
-        {
+  {
     hint: "Futon",
     answer: "布団"
   },
-    {
+  {
     hint: "Blanket",
     answer: "毛布"
   },
-     {
+  {
     hint: "Soap",
     answer: "石鹸"
   },
@@ -219,11 +219,11 @@ export let kanji = [
     hint: "Paper",
     answer: "紙"
   },
-   {
+  {
     hint: "Picture",
     answer: "画"
   },
-    {
+  {
     hint: "Night",
     answer: "夜"
   },
@@ -235,15 +235,15 @@ export let kanji = [
     hint: "Pull",
     answer: "引く"
   },
-    {
+  {
     hint: "To carry/transport",
     answer: "運ぶ"
   },
-    {
+  {
     hint: "tercemin/mencerminkan",
     answer: "映す"
   },
-    {
+  {
     hint: "Turn/spin",
     answer: "回す"
   },
@@ -251,7 +251,7 @@ export let kanji = [
     hint: "Lightning",
     answer: "雷"
   },
-     {
+  {
     hint: "Moss",
     answer: "苔"
   },
@@ -259,51 +259,51 @@ export let kanji = [
     hint: "Airport",
     answer: "空港"
   },
-   {
+  {
     hint: "Ice",
     answer: "氷"
-  }, 
-    {
+  },
+  {
     hint: "Caterpillar",
     answer: "毛虫"
   },
-    {
+  {
     hint: "Muscle",
     answer: "筋肉"
   },
-    {
+  {
     hint: "Air Force",
     answer: "空軍"
   },
-     {
+  {
     hint: "Shell",
     answer: "貝"
   },
-     {
+  {
     hint: "Watermelon",
     answer: "西瓜"
   },
-       {
+  {
     hint: "Empty",
     answer: "空"
   },
-        {
+  {
     hint: "Tree",
     answer: "木"
   },
   {
     hint: "Fast (Adjective)",
-    answer: "速い"
+    answer: "早い"
   },
   {
     hint: "Fast (Adverb)",
     answer: "早く"
   },
-   {
+  {
     hint: "A little",
     answer: "少し"
   },
-     {
+  {
     hint: "Gate",
     answer: "門"
   },
@@ -311,11 +311,11 @@ export let kanji = [
     hint: "Road",
     answer: "道"
   },
-    {
+  {
     hint: "Station",
     answer: "駅"
   },
-      {
+  {
     hint: "behind",
     answer: "後ろ"
   },
@@ -323,15 +323,15 @@ export let kanji = [
     hint: "West",
     answer: "西"
   },
-   {
+  {
     hint: "South",
     answer: "南"
   },
-    {
+  {
     hint: "North",
     answer: "北"
   },
-      {
+  {
     hint: "Monday",
     answer: "月曜日"
   },
@@ -339,11 +339,11 @@ export let kanji = [
     hint: "Tuesday",
     answer: "火曜日"
   },
-   {
+  {
     hint: "Wednesday",
     answer: "水曜日"
   },
-     {
+  {
     hint: "Thursday",
     answer: "木曜日"
   },
@@ -351,11 +351,11 @@ export let kanji = [
     hint: "Friday",
     answer: "金曜日"
   },
-   {
+  {
     hint: "Saturday",
     answer: "土曜日"
   },
-     {
+  {
     hint: "Sunday",
     answer: "日曜日"
   },
@@ -363,19 +363,19 @@ export let kanji = [
     hint: "Maybe",
     answer: "多分"
   },
-    {
+  {
     hint: "Sweat",
     answer: "汗"
   },
-   {
+  {
     hint: "Currently, at present",
     answer: "現在"
   },
-   {
+  {
     hint: "Safety/Security",
     answer: "安全"
   },
-   {
+  {
     hint: "Cold",
     answer: "寒い"
   },
@@ -383,19 +383,19 @@ export let kanji = [
     hint: "Planet",
     answer: "惑星"
   },
-   {
+  {
     hint: "Bookshelf",
     answer: "本棚"
-  },   
+  },
   {
     hint: "Hobby",
     answer: "趣味"
   },
-   {
+  {
     hint: "Envelope",
     answer: "封筒"
   },
-     {
+  {
     hint: "Postage Stamp",
     answer: "切手"
   },
@@ -403,16 +403,16 @@ export let kanji = [
     hint: "Fox",
     answer: "狐"
   },
-   {
+  {
     hint: "Plate",
     answer: "皿"
   },
-     {
+  {
     hint: "Chopstick",
     answer: "箸"
   },
   {
     hint: "Refrigerator",
     answer: "冷蔵庫"
-  },
+  }
 ]
